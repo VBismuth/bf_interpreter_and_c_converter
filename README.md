@@ -8,4 +8,4 @@ Written in python simple scripts to work with Brainfuck programs:
 
 ---
 
-For command arguments for each scripts use `<cmd> -h`.
+For command arguments of any script use `<cmd> -h`.
